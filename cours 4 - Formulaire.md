@@ -26,7 +26,7 @@ La clé est unique et permet d'identifier un écran pour que Flutter puisse faci
 ```dart
 class _MyHomePageState extends State<MyHomePage> {
 
-    final = formKey = GlobalKey<>();
+    final formKey = GlobalKey<>();
     
     TextEditingController passwordInput = TextEditingController();
     TextEditingController fullNameInput = TextEditingController();
