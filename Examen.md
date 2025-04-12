@@ -1,0 +1,16 @@
+- [ ] modelisation ***
+- [ ] images ** 
+- [ ] connection api ** 
+- [x] drawer 
+- [x] stateless
+- [x] stateful
+- [ ] formulaire 
+- [ ] list
+- [ ] map
+- [ ] scaffold
+- [ ] navigation
+- [ ] initstate
+- [ ] tab bar
+- [ ] refresh 
+- [ ] notification
+- [ ] stockage local (faible probabilite)
