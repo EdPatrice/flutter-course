@@ -1,9 +1,9 @@
 - [ ] modelisation ***
 - [ ] images ** 
 - [ ] connection api ** 
-- [x] drawer 
-- [x] stateless
-- [x] stateful
+- [ ] drawer 
+- [ ] stateless
+- [ ] stateful
 - [ ] formulaire 
 - [ ] list
 - [ ] map
